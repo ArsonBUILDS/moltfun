@@ -1,4 +1,4 @@
-![moltfun](moltbot.png)
+![moltfun](moltfuntp.png)
 
 # moltfun
 
